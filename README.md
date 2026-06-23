@@ -24,7 +24,7 @@
 
 <br/>
 
-## `$ whoami`
+**Profile**
 
 ```yaml
 name       : Sriram
@@ -40,8 +40,6 @@ I work at the intersection of **data and software** — analyzing datasets to su
 
 <br/>
 
----
-
 <br/>
 
 **Skills**
@@ -52,8 +50,7 @@ I work at the intersection of **data and software** — analyzing datasets to su
 <tr>
 <td width="50%" valign="top">
 
-### Data & Analytics
-
+**Data & Analytics**
 ```
 Python (Pandas, NumPy)    ████████████░░  85%
 SQL & PostgreSQL          ███████████░░░  78%
@@ -66,8 +63,7 @@ Excel & Data Cleaning     ██████████░░░░  72%
 </td>
 <td width="50%" valign="top">
 
-### Web Development
-
+**Web Development**
 ```
 HTML & CSS                ████████████░░  85%
 JavaScript                █████████░░░░░  68%
@@ -87,7 +83,7 @@ Git & GitHub              ██████████░░░░  72%
 
 <br/>
 
-## `$ cat tech_stack.json`
+**Tech Stack**
 
 <div align="center">
 
@@ -119,7 +115,7 @@ Git & GitHub              ██████████░░░░  72%
 
 <br/>
 
-## `$ ls projects/`
+**Projects**
 
 <br/>
 
@@ -128,7 +124,7 @@ Git & GitHub              ██████████░░░░  72%
 <tr>
 <td width="50%" valign="top">
 
-### Anti-Ragging Committee Platform
+**Anti-Ragging Committee Platform**
 > Student-safety web platform for incident reporting and support resources.
 
 **Role & Contribution**
@@ -144,7 +140,7 @@ Git & GitHub              ██████████░░░░  72%
 ![JS](https://img.shields.io/badge/JS-F7DF1E?style=flat-square&logo=javascript&logoColor=000)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 
-[![View](https://img.shields.io/badge/View%20Repository-0D1117?style=flat-square&logo=github&logoColor=64B5F6)](https://github.com/sram290408)
+[![View](https://img.shields.io/badge/View%20Repository-0D1117?style=flat-square&logo=github&logoColor=64B5F6)](https://github.com/sriram290408-sr/ARTC)
 
 </td>
 <td width="50%" valign="top">
@@ -171,7 +167,7 @@ Git & GitHub              ██████████░░░░  72%
 <tr>
 <td width="50%" valign="top">
 
-### Eventix — Event & Ticket Booking
+**Eventix — Event & Ticket Booking**
 > MERN-stack platform for event creation and ticket booking, inspired by Luma.
 
 **Role & Contribution**
@@ -187,12 +183,12 @@ Git & GitHub              ██████████░░░░  72%
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Node](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 
-[![View](https://img.shields.io/badge/View%20Repository-0D1117?style=flat-square&logo=github&logoColor=64B5F6)](https://github.com/sram290408)
+[![View](https://img.shields.io/badge/View%20Repository-0D1117?style=flat-square&logo=github&logoColor=64B5F6)](https://github.com/sriram290408-sr/eventix)
 
 </td>
 <td width="50%" valign="top">
 
-### Digital Communication of Apartments
+**Digital Communication of Apartments**
 > Apartment platform for resident notices, complaints, and daily updates.
 
 **Role & Contribution**
@@ -206,7 +202,7 @@ Git & GitHub              ██████████░░░░  72%
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-[![View](https://img.shields.io/badge/View%20Repository-0D1117?style=flat-square&logo=github&logoColor=64B5F6)](https://github.com/sram290408)
+[![View](https://img.shields.io/badge/View%20Repository-0D1117?style=flat-square&logo=github&logoColor=64B5F6)](https://github.com/sriram290408-sr/DCA)
 
 </td>
 </tr>
@@ -219,7 +215,7 @@ Git & GitHub              ██████████░░░░  72%
 
 <br/>
 
-## `$ cat github_activity.md`
+**Github Activity**
 
 <br/>
 
@@ -235,17 +231,17 @@ Git & GitHub              ██████████░░░░  72%
 
 <br/>
 
-## `$ cat certifications.md`
+**Certification**
 
 <br/>
 
 <div align="center">
 
-[![Python](https://img.shields.io/badge/Python%20Basics-HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/)
+[![Python](https://img.shields.io/badge/Python%20Basics-HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/certificates/iframe/8c2e3b046bea)
 &nbsp;&nbsp;
-[![SQL](https://img.shields.io/badge/SQL%20Basics-HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/)
+[![SQL](https://img.shields.io/badge/SQL%20Basics-HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/certificates/iframe/a0e8012ad05b)
 &nbsp;&nbsp;
-[![MERN](https://img.shields.io/badge/MERN%20Stack-Udemy-A435F0?style=for-the-badge&logo=udemy&logoColor=white)](https://www.udemy.com/)
+[![MERN](https://img.shields.io/badge/MERN%20Stack-Udemy-A435F0?style=for-the-badge&logo=udemy&logoColor=white)](https://www.udemy.com/certificate/UC-b3243558-e3f6-47df-9a53-281a49e5a460)
 
 </div>
 
@@ -255,9 +251,9 @@ Git & GitHub              ██████████░░░░  72%
 
 <br/>
 
-## `$ cat training.md`
+**Tranining**
 
-### Freshworks STS Software Academy — Web Development Program
+**Freshworks STS Software Academy — Web Development Program**
 
 A structured, product-focused program covering the full software development lifecycle:
 
@@ -276,7 +272,7 @@ A structured, product-focused program covering the full software development lif
 
 <br/>
 
-## `$ cat current_focus.txt`
+**Current Focus**
 
 <br/>
 
@@ -311,7 +307,7 @@ Objective
 
 <br/>
 
-## `$ cat contact.md`
+**Contact**
 
 <br/>
 
