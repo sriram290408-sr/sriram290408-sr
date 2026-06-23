@@ -29,10 +29,6 @@ alt="Professional role animation"
 <br/>
 
 <a href="mailto:sriram290408@gmail.com">
-  <img
-    src="https://img.shields.io/badge/AVAILABLE%20FOR-INTERNSHIP%20OPPORTUNITIES-2563EB?style=for-the-badge&labelColor=0F172A"
-    alt="Available for internships"
-  />
 </a>
 
 <a href="https://github.com/sram290408">
