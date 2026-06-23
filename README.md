@@ -8,7 +8,7 @@
 
 <br/><br/>
 
-![Status](https://img.shields.io/badge/Status-Open%20to%20Opportunities-1E40AF?style=flat-square&labelColor=0D1117)
+![Status](https://img.shields.io/badge/Status-Currently%20Working-1E40AF?style=flat-square&labelColor=0D1117)
 &nbsp;
 ![Role](https://img.shields.io/badge/Role-Data%20Analyst-0891B2?style=flat-square&labelColor=0D1117)
 &nbsp;
@@ -44,7 +44,7 @@ I work at the intersection of **data and software** — analyzing datasets to su
 
 <br/>
 
-## `$ ls skills/`
+**Skills**
 
 <br/>
 
