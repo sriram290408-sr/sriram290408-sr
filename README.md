@@ -1,1 +1,582 @@
-<!-- ========================================================= PROFESSIONAL GITHUB PROFILE README Name: Sriram Username: sram290408 Repository: sram290408 File: README.md ========================================================== --> <div align="center"> <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0F172A,50:1D4ED8,100:06B6D4&text=Sriram&fontSize=52&fontColor=FFFFFF&fontAlignY=38&desc=Full-Stack%20Web%20Developer&descAlignY=60&descSize=20&animation=fadeIn" alt="Sriram — Full-Stack Web Developer" /> <a href="https://git.io/typing-svg"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&width=850&height=55&lines=Full-Stack+Web+Developer;Python+%26+FastAPI+Developer;React+%26+MERN+Stack+Developer;Building+Reliable+Web+Applications;Learning%2C+Building+and+Improving+Every+Day" alt="Typing animation" /> </a> <br/> <a href="https://github.com/sram290408"> <img src="https://komarev.com/ghpvc/?username=sram290408&label=Profile%20Views&color=0891b2&style=for-the-badge" alt="Profile views" /> </a> <a href="https://github.com/sram290408?tab=followers"> <img src="https://img.shields.io/github/followers/sram290408?label=Followers&style=for-the-badge&logo=github&logoColor=white&color=1E293B" alt="GitHub followers" /> </a> <a href="mailto:sriram290408@gmail.com"> <img src="https://img.shields.io/badge/Open%20to-Internships%20%26%20Opportunities-2563EB?style=for-the-badge" alt="Open to opportunities" /> </a> </div> --- ## Professional Summary I am a **Full-Stack Web Developer** from Chennai with hands-on experience building responsive web applications, backend APIs, database-driven platforms, and authentication-based systems. I work with **HTML, CSS, JavaScript, React.js, Python, FastAPI, Node.js, Express.js, PostgreSQL, and MongoDB**. My project experience includes student-management systems, complaint-reporting platforms, event-booking applications, apartment communication systems, job portals, QR-code tools, and data-conversion applications. I am focused on improving my full-stack development, backend architecture, database design, API development, automation, and problem-solving skills. --- ## Developer Profile ```javascript const sriram = { role: "Full-Stack Web Developer", location: "Chennai, India", frontend: [ "HTML5", "CSS3", "JavaScript", "React.js" ], backend: [ "Python", "FastAPI", "Node.js", "Express.js" ], databases: [ "PostgreSQL", "MongoDB" ], developmentSkills: [ "REST API Development", "JWT Authentication", "CRUD Operations", "Database Integration", "Responsive Web Design", "Role-Based Access Control" ], currentlyLearning: [ "Advanced Python", "React Architecture", "SQL", "Backend System Design", "Application Deployment" ], careerGoal: "Build reliable applications that solve practical problems" }; ``` --- ## Technical Skills <div align="center"> ### Frontend Development <img src="https://skillicons.dev/icons?i=html,css,js,react&theme=dark" alt="HTML CSS JavaScript React" /> <br/><br/> ### Backend Development <img src="https://skillicons.dev/icons?i=python,fastapi,nodejs,express&theme=dark" alt="Python FastAPI Node.js Express.js" /> <br/><br/> ### Databases <img src="https://skillicons.dev/icons?i=postgresql,mongodb&theme=dark" alt="PostgreSQL MongoDB" /> <br/><br/> ### Tools and Platforms <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm,vercel,netlify&theme=dark" alt="Git GitHub VS Code Postman npm Vercel Netlify" /> </div> --- ## Skills Overview <table> <thead> <tr> <th align="left">Category</th> <th align="left">Technologies and Skills</th> </tr> </thead> <tbody> <tr> <td><strong>Frontend</strong></td> <td>HTML5, CSS3, JavaScript and React.js</td> </tr> <tr> <td><strong>Backend</strong></td> <td>Python, FastAPI, Node.js and Express.js</td> </tr> <tr> <td><strong>Databases</strong></td> <td>PostgreSQL and MongoDB</td> </tr> <tr> <td><strong>API Development</strong></td> <td>REST APIs, Request Validation, CRUD Operations and API Integration</td> </tr> <tr> <td><strong>Authentication</strong></td> <td>JWT Authentication and Role-Based Access Control</td> </tr> <tr> <td><strong>Development Tools</strong></td> <td>Git, GitHub, VS Code, Postman and npm</td> </tr> <tr> <td><strong>Deployment</strong></td> <td>Vercel, Netlify, Render, Supabase and Neon</td> </tr> <tr> <td><strong>Additional Areas</strong></td> <td>Power BI, Microsoft Excel, Excel COM and Automation</td> </tr> </tbody> </table> --- ## Professional Training ### Freshworks STS Software Academy Web Development Program Through practical learning and product-development activities, I have gained experience in: * Frontend web development * Backend API development * Database design and integration * Full-stack application development * Team-based product building * Project presentation * Problem-solving * Git and GitHub workflows * Application deployment --- ## Featured Projects <table> <tr> <td width="50%" valign="top"> ### Conversion Studio A Power BI-to-Excel conversion platform designed to convert dashboard metadata, formulas, data structures, and visuals into structured Excel workbooks. #### Key Features * PBIX metadata analysis * Power BI visual identification * Excel COM automation * PivotTable generation * Excel chart rendering * CUBE formula generation * Live semantic-model connection * Workbook preview and export #### Technology Stack `Python` `FastAPI` `JavaScript` `Power BI` `Excel COM` `OpenPyXL` <br/> <a href="https://github.com/sram290408/conversion-studio"> <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Conversion Studio" /> </a> </td> <td width="50%" valign="top"> ### Recapra Job Portal A role-based job portal developed for candidates, companies, and administrators. #### Key Features * Candidate and company registration * Role-based authentication * Job posting and application management * ATS resume scoring * Company-verification workflow * Resume profile builder * Administrator dashboard #### Technology Stack `React.js` `FastAPI` `PostgreSQL` `JavaScript` `CSS` <br/> <a href="https://github.com/sram290408/recapra-job-portal"> <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Recapra" /> </a> </td> </tr> <tr> <td width="50%" valign="top"> ### EduVerse A student-management platform for managing student information, academic marks, attendance, subjects, and rankings. #### Key Features * Student and teacher management * Attendance tracking * Academic-mark management * Subject management * Performance history * Student ranking * Database integration #### Technology Stack `React.js` `Python` `FastAPI` `PostgreSQL` <br/> <a href="https://github.com/sram290408/eduverse-student-management"> <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="View EduVerse" /> </a> </td> <td width="50%" valign="top"> ### Anti-Ragging and Teasing Committee A student-safety platform that allows students to report incidents and enables administrators to manage complaints. #### Key Features * Secure complaint submission * Complaint verification * Complaint-status tracking * Committee-member management * Schedule management * Safety-resource access * Complaint-analysis dashboard #### Technology Stack `HTML` `CSS` `JavaScript` `Python` `FastAPI` <br/> <a href="https://github.com/sram290408/anti-ragging-complaint-portal"> <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Anti-Ragging Portal" /> </a> </td> </tr> <tr> <td width="50%" valign="top"> ### Eventix An event-creation and ticket-booking platform inspired by modern event-management applications. #### Key Features * User authentication * Event creation * Event discovery * Ticket booking * Event-management dashboard * MongoDB integration * Full-stack MERN architecture #### Technology Stack `MongoDB` `Express.js` `React.js` `Node.js` <br/> <a href="https://github.com/sram290408/eventix"> <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Eventix" /> </a> </td> <td width="50%" valign="top"> ### Digital Communication of Apartments An apartment-management website designed to improve communication between residents and administrators. #### Key Features * Apartment notices * Resident complaints * Daily communication * Information organisation * Responsive layout * User-friendly interface #### Technology Stack `HTML` `CSS` <br/> <a href="https://github.com/sram290408/digital-apartment-communication"> <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Apartment Communication Project" /> </a> </td> </tr> <tr> <td width="50%" valign="top"> ### QR Studio A professional QR-code generator for text and uploaded images. #### Key Features * Text-based QR generation * Image-based QR generation * Custom QR colours * Centre-logo integration * Supabase Storage support * Public URL generation * Downloadable QR codes #### Technology Stack `HTML` `CSS` `JavaScript` `Python` `FastAPI` `Supabase` <br/> <a href="https://github.com/sram290408/qr-studio"> <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="View QR Studio" /> </a> </td> <td width="50%" valign="top"> ### Developer Portfolio A responsive portfolio website designed to present my skills, projects, certifications, and professional information. #### Key Features * Professional landing page * Skills showcase * Project presentation * Certification section * Responsive design * Contact section * Smooth interactions #### Technology Stack `HTML` `CSS` `JavaScript` `React.js` <br/> <a href="https://github.com/sram290408/sriram-portfolio"> <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Portfolio" /> </a> </td> </tr> </table> --- ## Development Capabilities ```text Frontend Development ├── Responsive page development ├── Semantic HTML structure ├── CSS layouts and styling ├── JavaScript interactions ├── React component development └── API integration Backend Development ├── REST API development ├── FastAPI applications ├── Node.js and Express.js applications ├── CRUD operations ├── JWT authentication ├── Role-based authorization └── Request and response validation Database Development ├── PostgreSQL integration ├── MongoDB integration ├── Table and collection design ├── Query development ├── Data relationships └── Application data management Deployment and Tools ├── Git ├── GitHub ├── VS Code ├── Postman ├── Netlify ├── Vercel ├── Render ├── Supabase └── Neon ``` --- ## Development Workflow ```text Understand the Requirement ↓ Plan the Application ↓ Design the Database ↓ Create the Backend API ↓ Develop the User Interface ↓ Connect Frontend and Backend ↓ Test the Complete Workflow ↓ Fix Issues and Improve Usability ↓ Document and Deploy ``` --- ## Achievements ### Product Building Challenge — First Prize Won **First Prize among 15 squads** for contributing to application development and project presentation. ### Squad Power Presentation — First Prize Won **First Prize among 15 squads** through effective teamwork, collaboration, and presentation. --- ## Certifications <div align="center"> <img src="https://img.shields.io/badge/Python%20Basics-HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="Python Basics HackerRank" /> <img src="https://img.shields.io/badge/SQL%20Basics-HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="SQL Basics HackerRank" /> <img src="https://img.shields.io/badge/MERN%20Stack-Udemy-A435F0?style=for-the-badge&logo=udemy&logoColor=white" alt="MERN Udemy" /> </div> --- ## Professional Strengths * Independent learning * Team collaboration * Creative thinking * Problem-solving * Product development * Project presentation * Adaptability * Continuous improvement * Clear communication * Responsibility and ownership --- ## Current Focus ```text Building ├── Full-stack web applications ├── React.js user interfaces ├── FastAPI backend services ├── Node.js and Express.js APIs ├── PostgreSQL applications └── MongoDB applications Improving ├── Python problem-solving ├── JavaScript fundamentals ├── React architecture ├── SQL query writing ├── Database design ├── Backend architecture └── Deployment practices Exploring ├── Power BI integration ├── Microsoft Excel automation ├── Excel COM ├── AI-assisted development └── Data-conversion workflows ``` --- ## GitHub Statistics <div align="center"> <img width="49%" src="https://github-readme-stats.vercel.app/api?username=sram290408&show_icons=true&theme=github_dark&hide_border=true&border_radius=12&include_all_commits=true" alt="Sriram GitHub statistics" /> <img width="49%" src="https://streak-stats.demolab.com?user=sram290408&theme=github-dark-blue&hide_border=true&border_radius=12" alt="Sriram GitHub streak" /> <br/><br/> <img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sram290408&layout=compact&theme=github_dark&hide_border=true&border_radius=12&langs_count=8" alt="Most-used languages" /> </div> --- ## Contribution Activity <div align="center"> <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=sram290408&theme=github-compact&hide_border=true&radius=12&area=true" alt="GitHub contribution graph" /> </div> --- ## Contribution Snake <div align="center"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sram290408/sram290408/output/github-contribution-grid-snake-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sram290408/sram290408/output/github-contribution-grid-snake.svg" /> <img src="https://raw.githubusercontent.com/sram290408/sram290408/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake" /> </picture> </div> --- ## Connect With Me <div align="center"> <a href="mailto:sriram290408@gmail.com"> <img src="https://img.shields.io/badge/Gmail-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /> </a> <a href="https://github.com/sram290408"> <img src="https://img.shields.io/badge/GitHub-Follow%20Me-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /> </a> <!-- Replace this URL with your correct LinkedIn URL. --> <a href="https://www.linkedin.com/in/your-linkedin-username"> <img src="https://img.shields.io/badge/LinkedIn-Connect%20With%20Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /> </a> <!-- Replace this URL with your deployed portfolio URL. --> <a href="https://your-portfolio-url.com"> <img src="https://img.shields.io/badge/Portfolio-View%20My%20Work-06B6D4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" /> </a> </div> --- <div align="center"> ### Developer Mindset > “Learn continuously, build practically, and improve with every project.” <br/> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=750&lines=Thank+you+for+visiting+my+GitHub+profile;Explore+my+projects+and+repositories;Let's+connect+and+build+something+meaningful" alt="Closing typing animation" /> </div> <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0F172A,50:1D4ED8,100:06B6D4&section=footer" alt="Profile footer" />
+<!--
+============================================================
+  PROFESSIONAL GITHUB PROFILE — SRIRAM
+  Repository: sram290408
+  File: README.md
+============================================================
+-->
+
+<div align="center">
+
+<img
+width="100%"
+src="https://capsule-render.vercel.app/api?type=rect&height=10&color=0:020617,45:2563EB,100:22D3EE"
+alt="Top accent"
+/>
+
+<br/>
+
+<img
+src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=34&duration=2500&pause=1000&color=E2E8F0&center=true&vCenter=true&repeat=false&width=900&height=65&lines=SRIRAM"
+alt="Sriram"
+/>
+
+<img
+src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=2600&pause=900&color=22D3EE&center=true&vCenter=true&width=900&height=45&lines=Web+Developer;Python+%7C+FastAPI+%7C+React;Building+practical+full-stack+applications"
+alt="Professional role animation"
+/>
+
+<br/>
+
+<a href="mailto:sriram290408@gmail.com">
+  <img
+    src="https://img.shields.io/badge/AVAILABLE%20FOR-INTERNSHIP%20OPPORTUNITIES-2563EB?style=for-the-badge&labelColor=0F172A"
+    alt="Available for internships"
+  />
+</a>
+
+<a href="https://github.com/sram290408">
+  <img
+    src="https://komarev.com/ghpvc/?username=sram290408&label=PROFILE+VIEWS&color=0891B2&style=for-the-badge"
+    alt="Profile views"
+  />
+</a>
+
+<br/><br/>
+
+<img
+width="100%"
+src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:020617,50:2563EB,100:22D3EE"
+alt="Section divider"
+/>
+
+</div>
+
+<br/>
+
+## 01 · Professional Profile
+
+<table>
+<tr>
+<td width="65%" valign="top">
+
+I am a **Web Developer** from Chennai with practical experience building frontend interfaces, backend APIs, and database-driven applications.
+
+My development experience includes:
+
+* Responsive web interfaces
+* REST API development
+* CRUD-based applications
+* JWT authentication
+* PostgreSQL and MongoDB integration
+* React and MERN application development
+* Application deployment
+
+I am currently developing my full-stack engineering skills through practical projects and professional training at **Freshworks STS Software Academy**.
+
+</td>
+
+<td width="35%" valign="top">
+
+```yaml id="l5k0nb"
+name: Sriram
+role: Web Developer
+location: Chennai, India
+
+focus:
+  - Full-Stack Development
+  - Backend APIs
+  - Database Applications
+
+status: Open to internships
+```
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## 02 · Technology Stack
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="25%">
+
+### Frontend
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react&theme=dark&perline=4" alt="Frontend technologies"/>
+
+</td>
+
+<td align="center" width="25%">
+
+### Backend
+
+<img src="https://skillicons.dev/icons?i=python,fastapi,nodejs,express&theme=dark&perline=4" alt="Backend technologies"/>
+
+</td>
+
+<td align="center" width="25%">
+
+### Databases
+
+<img src="https://skillicons.dev/icons?i=postgresql,mongodb&theme=dark&perline=2" alt="Database technologies"/>
+
+</td>
+
+<td align="center" width="25%">
+
+### Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel&theme=dark&perline=4" alt="Development tools"/>
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img
+src="https://img.shields.io/badge/HTML5-Frontend-E34F26?style=flat-square&logo=html5&logoColor=white"
+alt="HTML"
+/>
+
+<img
+src="https://img.shields.io/badge/CSS3-Styling-1572B6?style=flat-square&logo=css3&logoColor=white"
+alt="CSS"
+/>
+
+<img
+src="https://img.shields.io/badge/JavaScript-Programming-F7DF1E?style=flat-square&logo=javascript&logoColor=000000"
+alt="JavaScript"
+/>
+
+<img
+src="https://img.shields.io/badge/React-Frontend-20232A?style=flat-square&logo=react&logoColor=61DAFB"
+alt="React"
+/>
+
+<img
+src="https://img.shields.io/badge/Python-Backend-3776AB?style=flat-square&logo=python&logoColor=white"
+alt="Python"
+/>
+
+<img
+src="https://img.shields.io/badge/FastAPI-API-009688?style=flat-square&logo=fastapi&logoColor=white"
+alt="FastAPI"
+/>
+
+<img
+src="https://img.shields.io/badge/Node.js-Backend-339933?style=flat-square&logo=node.js&logoColor=white"
+alt="Node.js"
+/>
+
+<img
+src="https://img.shields.io/badge/PostgreSQL-Database-4169E1?style=flat-square&logo=postgresql&logoColor=white"
+alt="PostgreSQL"
+/>
+
+<img
+src="https://img.shields.io/badge/MongoDB-Database-47A248?style=flat-square&logo=mongodb&logoColor=white"
+alt="MongoDB"
+/>
+
+</div>
+
+<br/>
+
+## 03 · Core Development Skills
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+### Frontend Engineering
+
+* Semantic HTML structure
+* Responsive CSS layouts
+* JavaScript interactions
+* React components
+* Form handling
+* API integration
+
+</td>
+
+<td width="50%" valign="top">
+
+### Backend Engineering
+
+* Python and FastAPI
+* Node.js and Express.js
+* REST API development
+* CRUD operations
+* JWT authentication
+* Request validation
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### Database Development
+
+* PostgreSQL
+* MongoDB
+* Database integration
+* Table and collection design
+* Query fundamentals
+* Application data handling
+
+</td>
+
+<td width="50%" valign="top">
+
+### Tools and Deployment
+
+* GitHub
+* Visual Studio Code
+* Netlify
+* Render
+* Vercel
+* Supabase and Neon
+
+</td>
+
+</tr>
+</table>
+
+<br/>
+
+## 04 · Selected Projects
+
+<table>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### Anti-Ragging and Teasing Committee
+
+A student-safety web platform that allows students to report ragging incidents and access safety resources.
+
+**Contribution**
+
+* Built frontend pages
+* Developed incident-reporting workflow
+* Connected the interface with FastAPI
+* Implemented application data handling
+
+**Stack**
+
+`HTML` `CSS` `JavaScript` `FastAPI`
+
+<br/>
+
+<a href="https://github.com/sram290408">
+  <img
+    src="https://img.shields.io/badge/VIEW%20PROJECT-0F172A?style=for-the-badge&logo=github&logoColor=22D3EE"
+    alt="View project"
+  />
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+### EduVerse
+
+A student-management system for storing student details, managing academic marks, and recording attendance.
+
+**Contribution**
+
+* Developed backend functionality
+* Implemented student record management
+* Added marks and attendance handling
+* Used CRUD operations
+
+**Stack**
+
+`Python` `FastAPI`
+
+<br/>
+
+<a href="https://github.com/sram290408">
+  <img
+    src="https://img.shields.io/badge/VIEW%20PROJECT-0F172A?style=for-the-badge&logo=github&logoColor=22D3EE"
+    alt="View project"
+  />
+</a>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### Eventix
+
+A MERN-based event creation and ticket-booking platform inspired by Luma.
+
+**Contribution**
+
+* Developed event creation
+* Built ticket-booking functionality
+* Integrated React with Node.js
+* Used MongoDB for data storage
+
+**Stack**
+
+`MongoDB` `Express.js` `React.js` `Node.js`
+
+<br/>
+
+<a href="https://github.com/sram290408">
+  <img
+    src="https://img.shields.io/badge/VIEW%20PROJECT-0F172A?style=for-the-badge&logo=github&logoColor=22D3EE"
+    alt="View project"
+  />
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+### Digital Communication of Apartments
+
+An apartment communication website for notices, resident complaints, and daily updates.
+
+**Contribution**
+
+* Designed frontend pages
+* Created notice sections
+* Added complaint interfaces
+* Structured communication content
+
+**Stack**
+
+`HTML` `CSS`
+
+<br/>
+
+<a href="https://github.com/sram290408">
+  <img
+    src="https://img.shields.io/badge/VIEW%20PROJECT-0F172A?style=for-the-badge&logo=github&logoColor=22D3EE"
+    alt="View project"
+  />
+</a>
+
+</td>
+
+</tr>
+
+</table>
+
+<br/>
+
+## 05 · Training and Development
+
+### Freshworks STS Software Academy
+
+**Web Development Program**
+
+My professional training focuses on:
+
+* Full-stack web development
+* Backend API development
+* Database integration
+* Product-based application development
+* Team collaboration
+* Technical presentation
+* Problem-solving
+* Deployment workflows
+
+<br/>
+
+## 06 · Achievements
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+### Product Building Challenge
+
+**First Prize · Among 15 Squads**
+
+Contributed to application development and project presentation.
+
+</td>
+
+<td width="50%" valign="top">
+
+### Squad Power Presentation
+
+**First Prize · Among 15 Squads**
+
+Contributed through teamwork, coordination, and presentation.
+
+</td>
+
+</tr>
+</table>
+
+<br/>
+
+## 07 · Certifications
+
+<div align="center">
+
+<img
+src="https://img.shields.io/badge/Python%20Basics-HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"
+alt="Python Basics"
+/>
+
+<img
+src="https://img.shields.io/badge/SQL%20Basics-HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"
+alt="SQL Basics"
+/>
+
+<img
+src="https://img.shields.io/badge/MERN%20Stack-Udemy-A435F0?style=for-the-badge&logo=udemy&logoColor=white"
+alt="MERN Stack"
+/>
+
+</div>
+
+<br/>
+
+## 08 · GitHub Activity
+
+<div align="center">
+
+<img
+width="49%"
+src="https://github-readme-stats.vercel.app/api?username=sram290408&show_icons=true&theme=transparent&hide_border=true&title_color=22D3EE&text_color=CBD5E1&icon_color=3B82F6"
+alt="GitHub statistics"
+/>
+
+<img
+width="49%"
+src="https://streak-stats.demolab.com?user=sram290408&theme=transparent&hide_border=true&ring=22D3EE&fire=3B82F6&currStreakLabel=22D3EE&sideLabels=CBD5E1&dates=94A3B8"
+alt="Contribution streak"
+/>
+
+<br/>
+
+<img
+width="52%"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=sram290408&layout=compact&theme=transparent&hide_border=true&title_color=22D3EE&text_color=CBD5E1&langs_count=6"
+alt="Most-used languages"
+/>
+
+</div>
+
+<br/>
+
+## 09 · Contribution Timeline
+
+<div align="center">
+
+<img
+width="100%"
+src="https://github-readme-activity-graph.vercel.app/graph?username=sram290408&bg_color=00000000&color=CBD5E1&line=22D3EE&point=3B82F6&area=true&hide_border=true"
+alt="GitHub contribution timeline"
+/>
+
+</div>
+
+<br/>
+
+## 10 · Current Direction
+
+```text id="x01glw"
+Building
+│
+├── Responsive web interfaces
+├── FastAPI backend applications
+├── React.js applications
+├── REST APIs
+└── Database-driven systems
+
+Improving
+│
+├── Python programming
+├── JavaScript
+├── React.js
+├── SQL
+├── PostgreSQL
+└── MongoDB
+
+Objective
+│
+└── Gain practical industry experience and grow
+    into a reliable full-stack web developer
+```
+
+<br/>
+
+## 11 · Contact
+
+<div align="center">
+
+<a href="mailto:sriram290408@gmail.com">
+  <img
+    src="https://img.shields.io/badge/EMAIL-CONTACT%20ME-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
+    alt="Email"
+  />
+</a>
+
+<a href="https://github.com/sram290408">
+  <img
+    src="https://img.shields.io/badge/GITHUB-FOLLOW%20MY%20WORK-181717?style=for-the-badge&logo=github&logoColor=white"
+    alt="GitHub"
+  />
+</a>
+
+<!-- Replace with your real LinkedIn URL. -->
+
+<a href="https://www.linkedin.com/in/your-linkedin-username">
+  <img
+    src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+    alt="LinkedIn"
+  />
+</a>
+
+<!-- Replace with your real portfolio URL. -->
+
+<a href="https://your-portfolio-url.com">
+  <img
+    src="https://img.shields.io/badge/PORTFOLIO-VIEW%20MY%20WORK-0891B2?style=for-the-badge&logo=google-chrome&logoColor=white"
+    alt="Portfolio"
+  />
+</a>
+
+<br/><br/>
+
+<img
+src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3200&pause=1100&color=22D3EE&center=true&vCenter=true&width=720&lines=Thank+you+for+visiting+my+profile;Open+to+internships+and+development+opportunities"
+alt="Closing animation"
+/>
+
+<br/>
+
+<img
+width="100%"
+src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:020617,45:2563EB,100:22D3EE"
+alt="Bottom accent"
+/>
+
+</div>
