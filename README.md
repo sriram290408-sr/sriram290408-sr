@@ -221,7 +221,7 @@ Git & GitHub              ██████████░░░░  72%
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=sram290408&theme=github-compact&bg_color=0D1117&color=64B5F6&line=1E40AF&point=64B5F6&area=true&area_color=0F2942&hide_border=true" alt="Contribution Graph"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=sriram290408-sr&theme=github-compact&bg_color=0D1117&color=64B5F6&line=1E40AF&point=64B5F6&area=true&area_color=0F2942&hide_border=true" alt="Contribution Graph"/>
 
 </div>
 
